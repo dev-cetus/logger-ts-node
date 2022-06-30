@@ -1,0 +1,8 @@
+.idea
+.vscode
+
+src
+node_modules
+package-lock.json
+logger-ts-node.iml
+tsconfig.json
