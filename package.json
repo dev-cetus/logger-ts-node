@@ -4,7 +4,6 @@
   "description": "A simple typescript logger",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "type": "module",
   "module": "lib/index.js",
   "files": [
     "lib"

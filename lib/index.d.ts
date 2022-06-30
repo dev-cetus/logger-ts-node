@@ -1,4 +1,5 @@
-export default class Logger {
+export declare class Logger {
+    #private;
     static error(message: string | Error, error?: boolean): void;
     static info(message: string | Error, error?: boolean): void;
     static warn(message: string | Error, error?: boolean): void;
