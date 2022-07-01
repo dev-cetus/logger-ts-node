@@ -39,3 +39,5 @@ Logger.debug('This is a debug message');
 ```javascript
 Logger.trace('This is a trace message');
 ```
+### Result
+![Screenshot](https://i.imgur.com/VSucV0l.png)
